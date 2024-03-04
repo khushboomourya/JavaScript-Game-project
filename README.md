@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-Game-project
+# JavaScript-Game-Project
